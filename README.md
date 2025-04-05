@@ -5,8 +5,8 @@ After earning my degree in Biochemistry from UBC, I pursued my interest in tech 
 
 ## 🚀 Projects
 - **AWDEA**: Web platform for accessible entertainment ([View live](https://www.awdea.org))
-- **Course Scheduler**: Full-stack app for managing student and faculty schedules
-- **ReciPal**: Mobile app for recipe suggestions based on available ingredients
+- **Course Scheduler**: Full-stack app for managing student and faculty schedules  — [GitHub Repo](https://github.com/azuchibean/CourseScheduler.git)
+- **ReciPal**: Mobile app for recipe suggestions based on available ingredients — [GitHub Repo](https://github.com/JoshHipkin/2800-202310-BBY13.git)
 
 ## 🛠️ Tech Stack
 **Languages:**  
@@ -34,14 +34,15 @@ After earning my degree in Biochemistry from UBC, I pursued my interest in tech 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat-square)
-![CodePipeline](https://img.shields.io/badge/-AWS_CodePipeline-FF9900?logo=aws-codepipeline&logoColor=white&style=flat-square)
-![CodeDeploy](https://img.shields.io/badge/-AWS_CodeDeploy-FF9900?logo=aws-codedeploy&logoColor=white&style=flat-square)
-![EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazon-ec2&logoColor=white&style=flat-square)
 ![S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazon-s3&logoColor=white&style=flat-square)
-![RDS](https://img.shields.io/badge/-AWS_RDS-527FFF?logo=amazon-rds&logoColor=white&style=flat-square)
+![CodePipeline](https://img.shields.io/badge/-AWS_CodePipeline-FF9900?logo=aws-codepipeline&logoColor=white&style=flat-square)
 ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic_Beanstalk-233053?logo=awslambda&logoColor=white&style=flat-square)
+![CodeDeploy](https://img.shields.io/badge/-AWS_CodeDeploy-FF9900?logo=aws-codedeploy&logoColor=white&style=flat-square)
+![RDS](https://img.shields.io/badge/-AWS_RDS-527FFF?logo=amazon-rds&logoColor=white&style=flat-square)
+![EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazon-ec2&logoColor=white&style=flat-square)
 ![CloudWatch](https://img.shields.io/badge/-AWS_CloudWatch-FF4F8B?logo=amazonaws&logoColor=white&style=flat-square)
 ![SES](https://img.shields.io/badge/-AWS_SES-232F3E?logo=amazon-ses&logoColor=white&style=flat-square)
+
 
 
 
